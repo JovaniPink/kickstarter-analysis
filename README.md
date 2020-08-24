@@ -1,5 +1,3 @@
-<link href="https://unpkg.com/tailwindcss@1.5.2/dist/tailwind.min.css" rel="stylesheet">
-
 # Kickstarting Analysis with Excel
 
 > Performing analysis on Kickstarter data to uncover trends.
@@ -20,7 +18,7 @@
 
 Supplied Kickstarter data of 4000 rows of crowdfunding data to answer and assist in Louise in her decision making with "kick starting" her play fund.
 
-### Purpose
+## Summary
 
 Up and coming play write Louise writing her play "Fever" on a \$12,000 budget approached us for our Excel Data Analysis skills for one single purpose of GAINING INSIGHTS FOR SUCCESS by:
 
