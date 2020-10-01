@@ -4,13 +4,14 @@
 
 ## Table of Contents
 
-- [Overview of Project](#OverviewofProject)
-  - [Purpose](#purpose)
-- [Analysis and Challenges](#AnalysisandChallenges)
-  - [Analysis of Outcomes Based on Launch Date](#AnalysisofOutcomesBasedonLaunchDate)
-  - [Analysis of Outcomes Based on Goals](#AnalysisofOutcomesBasedonGoals)
-  - [Challenges and Difficulties Encountered](#ChallengesandDifficultiesEncountered)
-- [Results](#Results)
+- [Overview of Project](#overview-of-project)
+- [Summary](#summary)
+- [Analysis and Challenges](#analysis-and-challenges)
+  - [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-launch-date)
+  - [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals)
+  - [Challenges and Difficulties Encountered](#challenges-and-difficulties-encountered)
+- [Results](#results)
+- [Todo Checklist](#todo-checklist)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -29,7 +30,7 @@ Imagine the excitement of brain storming, entering a state of flow, and working 
 
 Louise felt hesitant for her first first kickstarter, as we would all. Just as we imagined that excitement to make our art to reality, Louise is throwing out our her vision of a play. And she came to us with 4000 rows of data to gain insights for her play "Fever" a success.
 
-There are specific factors that we could extract from the data that we could strategize to make Louise more than likely, successful in getting the \$12,000 funding. Using these insights for success, by gaining understanding of the success campaigns from start to finish and mirroring campaigns that were successful plays.
+There are specific factors that we could extract from the data that we could strategies to make Louise more than likely, successful in getting the \$12,000 funding. Using these insights for success, by gaining understanding of the success campaigns from start to finish and mirroring campaigns that were successful plays.
 
 ## Analysis and Challenges
 
@@ -70,7 +71,7 @@ Below is a graph showing the _Outcomes Based on Launch Date_ for the total avail
 
 We wanted to narrow down the to the subcategories and tally the total amount of outcomes for each month. The graphs shows highers percentages of success rates compared to the entire sample size. We also get the same trend of May having the highest number of successes and December having the lowest amount of successes.
 
-![Theather Outcomes vs Launch](resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -92,7 +93,7 @@ Louise budgeted that the play would cost a little over $10,000 ($12,000).
 | | |
 | | |
 
-The graph shows that from the sample Louise would likey (54%) fall into the success bin; that is in a vacuum based on outcome by goal.
+The graph shows that from the sample Louise would likely (54%) fall into the success bin; that is in a vacuum based on outcome by goal.
 
 ![Goal Outcomes](resources/Outcomes_vs_Goals.png)
 
@@ -131,6 +132,7 @@ A helpful checklist to gauge how your README is coming on what I would like to f
 - [ ] Go Back to the data set
 - [ ] Finish the questions of analysis
 - [ ] Really think of the questions of analysis
+- [ ] How to Manage and Release Excel files on GitHub: A Primer (Part I): https://www.xltrail.com/blog/how-to-manage-and-release-excel-files-on-github-part1
 
 ## Contributing
 
